@@ -1,7 +1,7 @@
 # NCAA-Mens-Basketball-Predictor
 Explore Kaggle's 2019 NCAA Mens Basketball dataset and create a predictor to predict future tournament winners
 
-Getting Dataset:
+# Getting Dataset:
 1. pip install kaggle
 2. Sign up for Kaggle account (https://www.kaggle.com) 
 3. Verify phone number for account
@@ -11,9 +11,9 @@ Getting Dataset:
 7. Accept the rules of the competition (https://www.kaggle.com/c/mens-machine-learning-competition-2019/data → click download all)
 8. kaggle competitions download -c mens-machine-learning-competition-2019 (cmd function)
 	
-Preprocessing Steps: 
+# Preprocessing Steps: 
 
-Data to Look at: 
+# Data to Look at: 
 * Most tourney wins since 1985
 * Conference with most wins
 * Seeds with most titles
