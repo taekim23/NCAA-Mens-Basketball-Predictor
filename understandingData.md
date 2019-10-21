@@ -4,21 +4,21 @@
 * Final scores of all regular season, conference tournament, and NCAA® tournament games since 1984-85 season
 * Season-level details including dates and region names
 
-Teams.csv
-Seasons.csv
-NCAATourneySeeds.csv
-RegularSeasonCompactResults.csv
-NCAATourneyCompactResults.csv
-SampleSubmissionStage1.csv
+* Teams.csv
+* Seasons.csv
+* NCAATourneySeeds.csv
+* RegularSeasonCompactResults.csv
+* NCAATourneyCompactResults.csv
+* SampleSubmissionStage1.csv
 
 
 # Data Section 2 - Team Box Scores
-RegularSeasonDetailedResults.csv
-NCAATourneyDetailedResults.csv
+* RegularSeasonDetailedResults.csv
+* NCAATourneyDetailedResults.csv
 
 # Data Section 3 - Geography
-Cities.csv
-GameCities.csv
+* Cities.csv
+** GameCities.csv
 
 
 # Data Section 4 - Public Rankings
