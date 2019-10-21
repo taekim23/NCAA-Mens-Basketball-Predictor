@@ -1,11 +1,15 @@
-# Data for a basic predictor
+# Necessary Data for a Basic Predictor
 * Team ID's and Team Names
 * Tournament seeds since 1984-85 season
 * Final scores of all regular season, conference tournament, and NCAA® tournament games since 1984-85 season
-* Season-level details including dates and region names
+* Season-level details including dates and region names (year is when march madness is)
 
 # Data Section 1 - The Basics
 * Teams.csv
+  * TeamID: 4 digit id
+  * TeamName
+  * FirstD1Season
+  * LastD1Season
 * Seasons.csv
 * NCAATourneySeeds.csv
 * RegularSeasonCompactResults.csv
