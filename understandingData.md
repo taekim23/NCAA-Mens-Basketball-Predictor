@@ -19,18 +19,18 @@
   * Seed
   * TeamID
 * RegularSeasonCompactResults.csv
- * Season
- * DayNum
- * WTeamID
- * WScore
- * LTeamID
- * LScore
- * WLoc
- * NumOT
+  * Season
+  * DayNum
+  * WTeamID
+  * WScore
+  * LTeamID
+  * LScore
+  * WLoc
+  * NumOT
 * NCAATourneyCompactResults.csv
 * SampleSubmissionStage1.csv
- * ID
- * Pred
+  * ID
+  * Pred
 
 
 # Data Section 2 - Team Box Scores
