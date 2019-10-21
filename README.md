@@ -1,6 +1,9 @@
 # NCAA-Mens-Basketball-Predictor
 Explore Kaggle's 2019 NCAA Mens Basketball dataset and create a predictor to predict future tournament winners
 
+# Before Starting
+Getting to Know About NCAA March Madness Tournament --> https://en.wikipedia.org/wiki/NCAA_Division_I_Men%27s_Basketball_Tournament
+
 # Getting Dataset:
 1. pip install kaggle
 2. Sign up for Kaggle account (https://www.kaggle.com) 
