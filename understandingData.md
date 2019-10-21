@@ -18,7 +18,7 @@
 
 # Data Section 3 - Geography
 * Cities.csv
-** GameCities.csv
+  * GameCities.csv
 
 
 # Data Section 4 - Public Rankings
