@@ -15,9 +15,9 @@
  * DayZero: date corresponding to daynum=0 (first day of season)
  * RegionW,RegionX,RegionY,RegionZ: 
 * NCAATourneySeeds.csv
- * Season
- * Seed
- * TeamID
+  * Season
+  * Seed
+  * TeamID
 * RegularSeasonCompactResults.csv
  * Season
  * DayNum
