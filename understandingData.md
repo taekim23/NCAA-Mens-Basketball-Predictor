@@ -11,9 +11,9 @@
   * FirstD1Season: first season the team was in division 1 (post 1985)
   * LastD1Season: last season the team was in division 1 (current teams in division will will have LastD1Season=2019)
 * Seasons.csv
- * Season: year which tournament was played (current is 2019)
- * DayZero: date corresponding to daynum=0 (first day of season)
- * RegionW,RegionX,RegionY,RegionZ: 
+  * Season: year which tournament was played (current is 2019)
+  * DayZero: date corresponding to daynum=0 (first day of season)
+  * RegionW,RegionX,RegionY,RegionZ: 
 * NCAATourneySeeds.csv
   * Season
   * Seed
@@ -39,13 +39,13 @@
 
 # Data Section 3 - Geography
 * Cities.csv
- * CityID: 4 digit id
- * City: name of city
- * State: abbreviation of state
+  * CityID: 4 digit id
+  * City: name of city
+  * State: abbreviation of state
 * GameCities.csv
- * Season,DayNum,WTeamID,LTeamID: uniquely identify each game
- * CRType: regular (RegularSeasonCompactResults.csv), NCAA (NCAATourneyCompactResults.csv), Secondary (SecondaryTourneyCompactResults file)
- * CityID: id of city where game was played (correspond to Cities.csv)
+  * Season,DayNum,WTeamID,LTeamID: uniquely identify each game
+  * CRType: regular (RegularSeasonCompactResults.csv), NCAA (NCAATourneyCompactResults.csv), Secondary (SecondaryTourneyCompactResults file)
+  * CityID: id of city where game was played (correspond to Cities.csv)
 
 
 # Data Section 4 - Public Rankings
