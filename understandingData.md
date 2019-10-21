@@ -50,11 +50,27 @@
 
 # Data Section 4 - Public Rankings
 * MasseyOrdinals.zip containing MasseyOrdinals.csv
+  * Season: year associated with Seasons.csv
+  * RankingDayNum: first day to use rankings for predicted games (ex. if RankingDayNum=110, then rankings based on days 0-109)
+  * SystemName: 3 letter abbreviation of each ranking system
+  * TeamID: id of team being ranked (Teams.csv)
+  * OrdinalRank: overall ranking of team in underlying system (out of 353)
 
 # Data Section 5 - Play by Play
 * PlayByPlay_201X.zip containing Events_201X.csv and Players_201X.csv
 * Events_201X.csv
+  * EventID: id for each logged event
+  * Season,DayNum,WTeamID,LTeamID: uniquely identify each game (mix of regular season,NCAA tourney,and Secondary tourney)
+  * WPoints,LPoints: points added in perspective of winning team (1,2 or 3)
+  * ElapsedSeconds: seconds elapsed from the start of the game until event occured (0-1200 first half,12-2400 second half,above 2400 overtime)
+  * EventTeamID: id of the team that the event is logged for (either WTeamID or LTeamID)
+  * EventPlayerID: id of the player that the event is logged for (correspond with Players_201X.csv)
+  * EventType: type of event that was logged (assist,block,steal,turnover,timeout/timeout_tv,foul_pers/foul_tech,reb_off/reb_def/reb_dead,sub_in/sub_out,made1free/miss1_free,made2_dunk/miss2dunk,made2_tip/miss2_tip,made2_lay/miss2_lay,made2_jump,miss2_jump,made3_jump/miss3_jump)
 * Players_201X.csv
+  * PlayerID: id for players (different within each year)
+  * Season: year of the associated entry
+  * TeamID: players team id
+  * PlayerName: player's name (LAST_FIRST)
 
 # Data Section 6 - Supplements
 * TeamCoaches.csv
